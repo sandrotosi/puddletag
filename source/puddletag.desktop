@@ -1,9 +1,0 @@
-[Desktop Entry]
-Version=1.0
-Type=Application
-Name=puddletag
-TryExec=puddletag
-Exec=puddletag %F
-Icon=puddletag
-GenericName=Audio Tag Editor
-Categories=AudioVideo;Audio;Qt;
