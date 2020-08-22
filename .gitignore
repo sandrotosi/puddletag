@@ -1,9 +1,0 @@
-*#*#
-/puddletag-docs/_build
-*.pyc
-source/releases
-source/deb_build
-source/dist/
-*#*
-puddletag-docs/translations
-.idea/
